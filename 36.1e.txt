@@ -1,0 +1,1 @@
+The GCD is 1 and was found in 7 calculations.
